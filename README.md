@@ -3,6 +3,16 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/htr-tech"><img title="Github" src="https://img.shields.io/badge/Github-HTR--TECH-blue?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/hax0rtahm1d"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-HTR--TECH-blue?style=for-the-badge&logo=gitlab"></a>
+</p>
+
+<p align="center">
+<a href="https://fb.com/tahmid.rayat.official"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://m.me/tahmid.rayat.official"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://www.instagram.com/tahmid.rayat"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+
+<p align="center">
 <a href="https://github.com/htr-tech/zphisher"><img title="Zphisher" src="https://github-readme-stats.vercel.app/api/pin/?username=htr-tech&repo=zphisher&theme=dark"></a>
 <a href="https://github.com/htr-tech/nexphisher"><img title="Zphisher" src="https://github-readme-stats.vercel.app/api/pin/?username=htr-tech&repo=nexphisher&theme=dark"></a>
 <a href="https://github.com/htr-tech/host"><img title="Host" src="https://github-readme-stats.vercel.app/api/pin/?username=htr-tech&repo=host&theme=dark"></a>
