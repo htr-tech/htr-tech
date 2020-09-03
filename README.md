@@ -1,5 +1,5 @@
-## WELCOME TO MY PROFILE
-<p align="center"><img src="https://gist.githubusercontent.com/htr-tech/840529c7f74aa3eaf445fd28c5d2d175/raw/7865643782868a8ba84db8f9344ee323838ea27f/tahm1d.gif" alt="HTR-TECH"></p>
+## ⚡ WELCOME TO MY PROFILE
+<p align="center"><a href="https://github.com/htr-tech"><img src="https://gist.githubusercontent.com/htr-tech/840529c7f74aa3eaf445fd28c5d2d175/raw/tahm1d.gif" alt="HTR-TECH"></p>
 
 <p align="center">
 <a href="https://github.com/htr-tech"><img title="HTR-TECH" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
