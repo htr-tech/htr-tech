@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/htr-tech"><img title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/htr-tech"><img title="Github" src="https://img.shields.io/badge/Github-HTR--TECH-blue?style=for-the-badge&logo=github"></a>
 <a href="https://gitlab.com/hax0rtahm1d"><img title="Gitlab" src="https://img.shields.io/badge/Gitlab-HTR--TECH-blue?style=for-the-badge&logo=gitlab"></a>
 </p>
