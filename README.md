@@ -1,4 +1,3 @@
-<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 <h2>Howdy , it's <i>Tahmid Rayat 👋</i></h2>
 Passionate <b>GNU/Linux</b> enthusiast with a little coding experience.
 <br /><br />
@@ -39,7 +38,7 @@ sh-6.9$ /bin/bash -i
 <hr />
 
 ### `~# cat AboutMe`
-<a href="#"><img align="right" height=250 src="assets/snorlax.svg"></a>
+<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 
 - I am a **student** 📚
 - I am from **Bangladesh** 🇧🇩 
